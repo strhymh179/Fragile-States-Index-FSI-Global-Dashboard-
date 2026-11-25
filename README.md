@@ -2,6 +2,9 @@
 
 📌 **Project Overview**
 
+<img width="1122" height="747" alt="image" src="https://github.com/user-attachments/assets/f7f52147-51f3-466e-80b1-e464786e5d66" />
+
+
 This project analyses the Fragile States Index (FSI) for 2022 and 2023 using Microsoft Power BI. The goal is to compare country-level fragility, identify year-on-year changes, examine the 12 indicators contributing to state fragility, and explore the countries experiencing the highest levels of fragility.
 
 The dashboard provides an interactive overview of global fragility through KPI cards, country comparisons, indicator analysis, ranking charts, and a world map. It aims to make complex data easier to understand and support meaningful comparisons between countries and across years.
